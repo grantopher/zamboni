@@ -1,0 +1,28 @@
+{
+  "name": "zamboni",
+  "version": "1.0.0",
+  "description": "DnD application",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantopher/zamboni.git"
+  },
+  "keywords": [
+    "dnd",
+    "tracker"
+  ],
+  "author": "grantopher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grantopher/zamboni/issues"
+  },
+  "homepage": "https://github.com/grantopher/zamboni#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-redux": "^7.0.3",
+    "redux": "^4.0.1"
+  }
+}
